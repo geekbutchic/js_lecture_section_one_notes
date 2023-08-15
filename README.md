@@ -1,1 +1,1 @@
-# js_lecture_section_one_notes
+# JavaScript Udemy Lecture Notes 
