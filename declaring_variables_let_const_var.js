@@ -79,7 +79,3 @@ const population = 331900000
 
 console.log(`The ${country} located in ${continent} and has a population of ${population} million `)
 
-/* 
-Lecture: Data Type
-1. Set the value of 'language' to t
-*/

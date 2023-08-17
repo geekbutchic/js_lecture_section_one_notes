@@ -15,7 +15,7 @@ Lecture : Data Types
 2. Log the types of 'isIsland', 'population', 'country' and 'language' to the console.
 */
 
-const isIsland = false;
+let isIsland = false;
 const language = "English";
 let population = 331.9;
 const country = 'United States of America';
