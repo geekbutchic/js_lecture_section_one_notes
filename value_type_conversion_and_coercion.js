@@ -39,7 +39,7 @@ console.log("I'am " + 23 + " years old!");
 console.log("10" - 5); // JavaScript coerces "10" to a number and performs subtraction, resulting in 5
 console.log("10" + 5); // JavaScript concatenates "10" (as a string) and 5 (as a number), resulting in "105"
 
-//In JavaScript, the + operator does trigger type coercion, but its behavior depends on the types of operands involved. When both operands are numbers, the + operator performs addition. However, when at least one operand is a string, the + operator performs string concatenation.
+//In JavaScript, the + operator does trigger type coercion, but its behavior depends on the types of operands involved. When both operands are numbers, the + operator performs addition. However, when at least one operand is a string, the + operator performs string concatenation. 
 
 console.log("23" / "2"); //Same is true for dividing
 
