@@ -16,7 +16,7 @@ switch (day) {
     console.log(`Write code examples.`);
     break;
   case "friday":
-    console.log(`Record videos.`);
+    console.log(`Record videos.`); 
     break;
   case "saturday":
   case "sunday":
