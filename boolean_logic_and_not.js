@@ -49,6 +49,7 @@ Lecture : Logical Operators
 5. Probably your country does not meet all the criteria.  So go back and temporarily change some variables in order to make the condition true.
 */
 
+// Problem 1
 const myNumber = 331.9 * 1000000; // 1 million
 console.log(myNumber);
 
